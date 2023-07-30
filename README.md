@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Ricardo Cuauro
+# ¡Hola! 👋🏻 Soy Ricardo Cuauro
 ## Desarrollador frontend en constante aprendizaje
 
 Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonces busco en las entrañas de internet la información necesaria que me permita realizar cualquier cosa.
