@@ -16,3 +16,4 @@ Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonc
 <br>
 [![WordPress](https://img.shields.io/badge/WordPress-277399?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-8053b3?style=for-the-badge&logo=WooCommerce&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-252525?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
