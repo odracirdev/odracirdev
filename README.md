@@ -9,6 +9,7 @@ Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonc
 [![CSS3](https://img.shields.io/badge/CSS3-4d98d4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-5c6eb8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![Markdown](https://img.shields.io/badge/Markdown-45a1e4?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
 <br>
 [![Docker](https://img.shields.io/badge/Docker-4694eb?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-23688d?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=101010)]()
