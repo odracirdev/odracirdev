@@ -18,3 +18,9 @@ Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonc
 [![WordPress](https://img.shields.io/badge/WordPress-277399?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-8053b3?style=for-the-badge&logo=WooCommerce&logoColor=white&labelColor=101010)]()
 [![Figma](https://img.shields.io/badge/Figma-252525?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
+
+### Estadísticas
+
+![odracirdev's Stats](https://github-readme-stats.vercel.app/api?username=odracirdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![odracirdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=odracirdev&theme=tokyonight&hide_border=true)
+![odracirdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odracirdev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
