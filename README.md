@@ -22,5 +22,3 @@ Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonc
 ### Estadísticas
 
 ![odracirdev's Stats](https://github-readme-stats.vercel.app/api?username=odracirdev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![odracirdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=odracirdev&theme=tokyonight&hide_border=true)
-![odracirdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=odracirdev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
