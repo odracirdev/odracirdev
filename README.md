@@ -3,6 +3,13 @@
 
 Me defino como un "googleador" profesional porque si no sé cómo hacerlo entonces busco en las entrañas de internet la información necesaria que me permita realizar cualquier cosa.
 
+### Redes sociales
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/jrZrPEyKyE)
+[![Twitter](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ricardcuauro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ricardocuauro/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/odracirdev)
+
 ### Tecnologías
 
 [![HTML5](https://img.shields.io/badge/HTML5-db542f?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
